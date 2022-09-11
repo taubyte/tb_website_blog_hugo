@@ -1,0 +1,3 @@
+cp !(/taubyte) / out/
+
+exit $?
