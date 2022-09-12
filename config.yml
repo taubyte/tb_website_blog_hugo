@@ -66,6 +66,8 @@ params:
     # comments: false
     images: ["cover.png"]
 
+    hideFooter: true
+
     profileMode:
         enabled: false
         title: Taubyte
