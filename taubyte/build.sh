@@ -1,11 +1,9 @@
 #!/bin/bash
 
+pwd
 
-rm -fr /src/out
+ls /src 
 
-cd /src && git submodule init && git submodule update && hugo && mv public out
-
-
-ls out
+git submodule init && git submodule update && hugo && mv public/* /out
 
 exit $?
