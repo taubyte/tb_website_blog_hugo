@@ -8,7 +8,7 @@ TocOpen: false
 ShowBreadCrumbs: true
 ---
 
-In this post, I'll show you how to create your first RestFul Serverless Function.
+In this post, I'll show you how to create your first RESTful Serverless Function.
 
 The first thing to do is to head to [console.taubyte.com](https://console.taubyte.com), log in and create a new project. If it's your first time, follow this quick intro [here]({{< ref "first-project" >}}).
 
@@ -26,7 +26,7 @@ It is good practice to separate components of your projects. So let's create an 
 
 
 # Create a Domain
-Because we're creating a RestFul endpoint we will need a DNS domain. If you're not sure what DNS is check [this article](/protos/dns/what-is-dns). If you don't have a domain, start by getting one.
+Because we're creating a RESTful endpoint we will need a DNS domain. If you're not sure what DNS is check [this article](/protos/dns/what-is-dns). If you don't have a domain, start by getting one. If you're not sure where to get one, here's a good article: [The Best Domain Registrars Of 2022](https://www.forbes.com/advisor/business/software/best-domain-registrar/).
 
 - Navigate to the `Domains` tab
 ![domain-tab-application](../images/domain-tab-application.png)
