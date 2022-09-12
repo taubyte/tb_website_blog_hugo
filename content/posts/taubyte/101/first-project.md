@@ -64,7 +64,7 @@ Go ahead and navigate to https://console.taubyte.com
 
 ## Login
 Before we can use the console we need to acquire access to git.
- - On the login page, type and email you want us to use for communication (notifications about builds, deployments, etc.).
+ - On the login page, type an email you want us to use for communication (notifications about builds, deployments, etc.).
  - Then click on the git provider you want to use. Example: github.
 
  This should take you to the project page. The page might be slow to load all your projects as it will fetch details from your git repositories. *Remember, Taubyte does not store much information about your projects*
@@ -80,4 +80,22 @@ As described earlier, creating a project is 99% git operations:
 To make this happen:
  - Click on the ➕ button
 ![create-project-btn](../images/create-project-btn.png)
- - On the modal, name your project. *Name must abide by variable name restrictions and be unique in your git space*
+ - On the modal,
+   - Name your project. *Name must abide by variable name restrictions and be unique in your git space*
+   - Provide a description if needed
+   - The last field will be pre-filled with the email you provided during login. You can change it, if you'd like to use another email for this particular project.
+   
+ - Click on `Create project`
+ ![create-proj-modal](../images/create-proj-modal.png)
+
+## Project opened
+Once the project is created, you will be redirected to the project dashboard. From here you can go wild!
+
+# Where's my code and config
+- On the top right corner, click on your avatar then on `Project Details`
+- On the modal, you should see two URLs  to the project's repositories
+
+
+# Next
+Not sure what to go for next, check out [Ping: Your First Serverless Function]({{< ref "ping-pong" >}}).
+
