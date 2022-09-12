@@ -1,5 +1,6 @@
 version: 1.00
 enviroment:
-  image: node
+  image: image
   variables:
 workflow:
+  - build
