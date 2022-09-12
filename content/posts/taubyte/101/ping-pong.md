@@ -53,7 +53,7 @@ If you're not sure how to do that, here are guides to the most popular name serv
   - [Cloudflare](https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/)
 
 
-In addition to this entry you will need to redirect the DNS requests to this subdomain to the Taubyte network. To do so, add the following entry:
+In addition to this entry, you will need to redirect the DNS requests to this subdomain to the Taubyte network. To do so, add the following entry:
 
 {{< highlight zone >}}
 ping IN CNAME nodes.taubyte.com.
