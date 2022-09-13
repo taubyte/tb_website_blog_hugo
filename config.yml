@@ -169,3 +169,5 @@ services:
         disableInlineCSS: true
     twitter:
         disableInlineCSS: true
+
+googleAnalytics: 331676999

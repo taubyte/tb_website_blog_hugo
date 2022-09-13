@@ -55,11 +55,10 @@ The token is only stored in your browser and nowhere else.
 Now that you have some basic understanding of those important concepts that make Taubyte uniquely suited for Web 3.0, we can go ahead and get your first project created!
 
 ## Web Console
-Taubyte web console is a dApp and can be accessed from diffrent places. The most convenient at the  time of writing this article is https://console.taubyte.com
+Taubyte web console is a dApp and can be accessed from different places. The most convenient at the  time of writing this article is https://console.taubyte.com
 
-{{< highlight text >}}
-Go ahead and navigate to https://console.taubyte.com
-{{< /highlight >}}
+> Go ahead and navigate to https://console.taubyte.com
+
 
 
 ## Login
