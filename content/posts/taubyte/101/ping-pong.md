@@ -59,6 +59,10 @@ In addition to this entry, you will need to redirect the DNS requests to this su
 ping IN CNAME nodes.taubyte.com.
 {{< /highlight >}}
 
+Depending on you're registar, doing so would look like this:
+![example-dns-namecheap](../images/example-dns-namecheap.png)
+
+
 Once you added the entries, get back to the console and close the modal.
 
 You can continue with the next step as, unlike anything you might have seen before, on Taubyte nodes verify the TXT record individually at run-time.
