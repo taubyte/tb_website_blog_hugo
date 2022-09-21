@@ -10,6 +10,13 @@ ShowBreadCrumbs: true
 
 In this post, I'll show you how to create your first RESTful Serverless Function.
 
+Example:
+{{< highlight shell >}}
+$ curl https://ping.examples.tau.link/ping
+PONG
+{{< /highlight >}}
+
+
 The first thing to do is to head to [console.taubyte.com](https://console.taubyte.com), log in and create a new project. If it's your first time, follow this quick intro [here]({{< ref "first-project" >}}).
 
 
@@ -252,6 +259,10 @@ PONG
 
 # Challenge
 Modify the message, push the code and test it again.
+
+# Code
+ - Config https://github.com/taubyte/tb_examples/tree/master/applications/ping_backend
+ - Code https://github.com/taubyte/tb_code_examples/tree/master/ping_backend/functions
 
 # References
 - [Taubyte Go SDK documentation](https://pkg.go.dev/bitbucket.org/taubyte/go-sdk)

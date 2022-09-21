@@ -50,7 +50,6 @@ The token is only stored in your browser and nowhere else.
 {{< /highlight >}}
 
 
-
 # Let's get started
 Now that you have some basic understanding of those important concepts that make Taubyte uniquely suited for Web 3.0, we can go ahead and get your first project created!
 
@@ -64,7 +63,10 @@ Taubyte web console is a dApp and can be accessed from different places. The mos
 ## Login
 Before we can use the console we need to acquire access to git.
  - On the login page, type an email you want us to use for communication (notifications about builds, deployments, etc.).
- - Then click on the git provider you want to use. Example: github.
+ - Then, click on the git provider you want to use. Example: github.
+![login-to-web-console](../images/login-to-web-console.png)
+ - Finally, authorise web console to connect to your Git
+![github-oauth-login](../images/github-oauth-login.png)
 
  This should take you to the project page. The page might be slow to load all your projects as it will fetch details from your git repositories. *Remember, Taubyte does not store much information about your projects*
 
