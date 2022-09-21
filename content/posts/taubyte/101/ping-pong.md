@@ -260,9 +260,8 @@ PONG
 # Challenge
 Modify the message, push the code and test it again.
 
-# Code
- - Config https://github.com/taubyte/tb_examples/tree/master/applications/ping_backend
- - Code https://github.com/taubyte/tb_code_examples/tree/master/ping_backend/functions
-
 # References
+- Code
+  - Config https://github.com/taubyte/tb_examples/tree/master/applications/ping_backend
+  - Code https://github.com/taubyte/tb_code_examples/tree/master/ping_backend/functions
 - [Taubyte Go SDK documentation](https://pkg.go.dev/bitbucket.org/taubyte/go-sdk)
