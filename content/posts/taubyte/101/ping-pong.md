@@ -152,7 +152,7 @@ nodes.taubyte.com.	60	IN	A	20.231.58.152
 
 # Create a function
 All those steps led you here, the most interesting part really!
-Taubyte functions are WebAssembly modules that are triggered by an event. In this case, the event is an HTTP request.
+Taubyte functions are WebAssembly modules, that are stored compressed in the network just like an IPFS file, and are triggered by an event. In this case, the event is an HTTP request.
 
 - First, switch to the `functions` tab
 ![functions-tab](../images/functions-tab.png)
@@ -239,7 +239,7 @@ This will open a modal that will guide you through three pages:
 
   - **Commit message** there you should enter a commit message and click on `Finish` to push.
 
-# Check you repo
+# Check your repo
 Now that you pushed your code, you can check the changes on github. The console has a helper to take you there:
  - Click on your avatar in the top right corner
  - Click on `Project Details`
