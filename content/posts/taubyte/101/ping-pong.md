@@ -255,7 +255,7 @@ You can either test it from your browser by navigating to `https://ping.your.dom
 {{< highlight shell >}}
 $ curl https://ping.your.domain.tld/ping
 PONG
-{{< /highlight >}}
+{{</highlight>}}
 
 # Challenge
 Modify the message, push the code and test it again.
