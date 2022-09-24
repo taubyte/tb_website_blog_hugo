@@ -1,7 +1,7 @@
 ---
 author: "Samy Fodil"
 title: "Avatar generator function"
-date: "2022-09-01"
+date: "2022-09-23"
 tags: ["rendering","taubyte"]
 ShowToc: true
 TocOpen: false
