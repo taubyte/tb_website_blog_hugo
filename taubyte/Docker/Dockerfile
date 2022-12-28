@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.107.0-alpine
+FROM klakegg/hugo:0.97.1-alpine
 
 RUN apk update
 
