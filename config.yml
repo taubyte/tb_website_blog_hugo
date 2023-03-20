@@ -38,7 +38,7 @@ languages:
                 - name: Website
                   url: https://taubyte.com
                 - name: Doc
-                  url: https://doc.taubyte.com
+                  url: https://tau.how
 
 outputs:
     home:
